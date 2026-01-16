@@ -1,0 +1,643 @@
+{
+  "last_updated": "2024-06-01",
+  "event": "fx",
+  "1": [
+    {
+      "sv": 0.1,
+      "box_num": 1,
+      "desc": "From hdst. lower to L-sit or strad. L-sit (2 s.)."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 2,
+      "desc": "V-sit (2 s.)."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 3,
+      "desc": "V-sit with legs horizontal. (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 7,
+      "desc": "From stand, Swiss press to hdst. (2 s.)."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 8,
+      "desc": "Piked body, str. arm or str. body, bent arm press to hdst. with legs together (2 s.)."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 9,
+      "desc": "V-sit (2 s) and press to hdst. (2 s.). Also final phase with straddle."
+    },
+    {
+      "sv": 0.4,
+      "box_num": 10,
+      "desc": "Manna (2 s.) and press to hdst. (2 s.). Also final phase with straddle."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 13,
+      "desc": "Rock to hdst. from prone position (2 s.). "
+    },
+
+    {
+      "sv": 0.2,
+      "box_num": 14,
+      "desc": "Press from split, L-sit strad. or front sup. (2 s.)"
+    },
+    {
+      "sv": 0.4,
+      "box_num": 16,
+      "desc": "From Manna (2 s.), turn over (dislocation) to handstand (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 19,
+      "desc": "Handstand (2 s.)."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 20,
+      "desc": "Press or lower or swing to Japanese hdst. (2 s.). "
+    },
+    {
+      "sv": 0.3,
+      "box_num": 21,
+      "desc": "From split press to Japanese handstand (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 25,
+      "desc": "Planche, legs straddle (2 s.)."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 27,
+      "desc": "Planche (2 s.). / Swallow (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 31,
+      "desc": "½ or 1/1 turn in handstand or to handstand."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 32,
+      "desc": "From straddled planche (2 s.) press hdst. (2 s.)."
+    },
+    {
+      "sv": 0.4,
+      "box_num": 34,
+      "desc": "From Planche 2 s. press handstand (2 s.) or From Swallow 2s.press to Japanesehdst.(2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 37,
+      "desc": "From L-sit, etc., turn over bwd. to stand."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 44,
+      "desc": "Endo roll to handstand (2 s.)."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 45,
+      "desc": "Endo roll piked to handstand legs together (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 49,
+      "desc": "Forward walkover."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 55,
+      "desc": "Cross or side split (stop required)"
+    },
+    {
+      "sv": 0.1,
+      "box_num": 61,
+      "desc": "Any standing scale (2 s.)."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 62,
+      "desc": "Any standing scale with 180° straddle, no handhold (2 s.)."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 67,
+      "desc": "Jump bwd. to front support. "
+    },
+    {
+      "sv": 0.2,
+      "box_num": 68,
+      "desc": " Jump bwd. with pike-stretch or with 1/1 turn to front support."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 73,
+      "desc": " Butterfly."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 74,
+      "desc": "Butterfly with 1/1 twist fwd. or bwd."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 75,
+      "desc": "Butterfly with 2/1 twist."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 79,
+      "desc": "1 circle or flair."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 80,
+      "desc": "Circles or flair to handstand."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 81,
+      "desc": "Flair or circle to hdst. continue to flair or circle.",
+      "name": "Gogoladze"
+    },
+    {
+      "sv": 0.4,
+      "box_num": 82,
+      "desc": "Flair hopping with 360° t. bwd. thr.hdst and back to flair (2 hops)."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 86,
+      "desc": "Lower from hdst. to flair or circle."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 91,
+      "desc": "Flair with ½ spindle."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 92,
+      "desc": "Flair with 1/1 spindle (in 2 circles)."
+    },
+    {
+      "sv": 0.3,
+      "box_num": 93,
+      "desc": "Flair with >270 spindle (in 2 circles) directly to handstand."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 98,
+      "desc": "Flair with ½ spindle to handstand."
+    },
+    {
+      "sv": 0.4,
+      "box_num": 100,
+      "desc": "Flair with > 270º spindle (in 2 circles) directly to handstand and continue to circle or flair."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 103,
+      "desc": "Russian wendeswing with 360° or 540°."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 104,
+      "desc": "Russian wendeswing with 720° or 900°.c"
+    },
+    {
+      "sv": 0.3,
+      "box_num": 105,
+      "desc": "Russian wendeswing with 1080° or more."
+    },
+    {
+      "sv": 0.1,
+      "box_num": 109,
+      "desc": "Roll bwd. through hdst. with ½ t."
+    },
+    {
+      "sv": 0.2,
+      "box_num": 110,
+      "desc": "Roll bwd. with hop 1/1 t. through hdst."
+    }
+  ],
+  "2:": [
+    {
+      "box_num": 1,
+      "sv": 0.1,
+      "desc": "forward handspring or flyspring."
+    },
+    {
+      "box_num": 4,
+      "sv": 0.4,
+      "desc": "Handspring salto fwd. tuck.",
+      "name": "Morandi"
+    },
+    {
+      "box_num": 7,
+      "sv": 0.1,
+      "desc": "Dive roll."
+    },
+    {
+      "box_num": 13.1,
+      "sv": 0.1,
+      "desc": "Salto fwd. tucked."
+    },
+    {
+      "box_num": 13.2,
+      "sv": 0.1,
+      "desc": "Salto fwd. piked."
+    },
+    {
+      "box_num": 13.3,
+      "sv": 0.1,
+      "desc": "Salto fwd. piked with ½ t."
+    },
+    {
+      "box_num": 13.4,
+      "sv": 0.1,
+      "desc": "Salto fwd. tucked with ½ t."
+    },
+    {
+      "box_num": 14.1,
+      "sv": 0.2,
+      "desc": "Salto fwd. straight"
+    },
+    {
+      "box_num": 14.1,
+      "sv": 0.2,
+      "desc": "Salto fwd. straight with ½ t."
+    },
+    {
+      "box_num": 16.1,
+      "sv": 0.4,
+      "desc": " Double salto fwd. tucked."
+    },
+    {
+      "box_num": 16.2,
+      "sv": 0.4,
+      "desc": " Double salto fwd. tucked with ½ t."
+    },
+    {
+      "box_num": 17.1,
+      "sv": 0.5,
+      "desc": "Double salto fwd. piked"
+    },
+    {
+      "box_num": 17.2,
+      "sv": 0.5,
+      "desc": "Double salto fwd. piked with ½ t."
+    },
+    {
+      "box_num": 36,
+      "sv": 0.6,
+      "desc": "Double salto fwd. tucked with 1/1 turn."
+    },
+    {
+      "box_num": 38.1,
+      "sv": 0.2,
+      "desc": "Salto fwd. t. to front support."
+    },
+    {
+      "box_num": 38.2,
+      "sv": 0.2,
+      "desc": "Salto fwd. p. to front support."
+    },
+    {
+      "box_num": 42,
+      "sv": 0.6,
+      "desc": "Double salto fwd. tucked with 3/2 turn.",
+      "name": "Zapata"
+    },
+    {
+      "box_num": 46,
+      "sv": 0.4,
+      "desc": "Jump fwd. with ½ t. to dbl. salto bwd. Tuck.",
+      "name": "Deferr"
+    },
+    {
+      "box_num": 48,
+      "sv": 0.7,
+      "desc": "Double salto fwd. piked or straight with 3/2 turn.",
+      "name": "Zapata 2"
+    },
+    {
+      "box_num": 17.2,
+      "sv": 0.5,
+      "desc": "Double salto fwd. piked with ½ t."
+    }
+  ],
+  "3": [
+    {
+      "box_num": 1.1,
+      "sv": 0.1,
+      "desc": "Salto backwards tucked."
+    },
+    {
+      "box_num": 1.2,
+      "sv": 0.1,
+      "desc": "Salto backwards piked."
+    },
+    {
+      "box_num": 2.1,
+      "sv": 0.2,
+      "desc": "Salto backwards str."
+    },
+    {
+      "box_num": 2.2,
+      "sv": 0.2,
+      "desc": "Tempo salto bwd.",
+      "name": "Whip"
+    },
+    {
+      "box_num": 3,
+      "sv": 0.3,
+      "desc": "Double salto bwd. tucked."
+    },
+    {
+      "box_num": 4.1,
+      "sv": 0.4,
+      "desc": "Salto bwd. with 1/1 t. and salto bwd.",
+      "name": "Tsukahara"
+    },
+    {
+      "box_num": 4.2,
+      "sv": 0.4,
+      "desc": "Arabian jump bwd. to double salto fwd tucked",
+      "name": "Arabian double"
+    },
+    {
+      "box_num": 4.2,
+      "sv": 0.4,
+      "desc": "Arabian jump bwd. to double salto fwd tucked with ½ t.",
+      "name": "½ in, ½ out"
+    },
+    {
+      "box_num": 5.1,
+      "sv": 0.5,
+      "desc": "Double salto bwd. tucked with 2/1 t."
+    },
+    {
+      "box_num": 5.2,
+      "sv": 0.5,
+      "desc": "double salto bwd t. with 3/2 t."
+    },
+    {
+      "box_num": 5.3,
+      "sv": 0.5,
+      "desc": "salto bwd. str. 3/2 to fwd. salto tucked.",
+      "name": "Korosteljev"
+    },
+    {
+      "box_num": 6,
+      "sv": 0.6,
+      "desc": "Double salto bwd. tucked with 3/1 t.",
+      "name": "Triple Double"
+    },
+    {
+      "box_num": 7.1,
+      "sv": 0.1,
+      "desc": "Salto backwards tucked w ½ t."
+    },
+    {
+      "box_num": 7.2,
+      "sv": 0.1,
+      "desc": "Salto backwards piked w. ½ t."
+    },
+    {
+      "box_num": 7.3,
+      "sv": 0.1,
+      "desc": "Arabian tucked"
+    },
+    {
+      "box_num": 7.4,
+      "sv": 0.1,
+      "desc": "arabian piked."
+    },
+    {
+      "box_num": 8,
+      "sv": 0.2,
+      "desc": "Salto backwards str. w. ½ t."
+    },
+    {
+      "box_num": 11.1,
+      "sv": 0.5,
+      "desc": "Arabian jump bwd. to double salto fwd piked"
+    },
+    {
+      "box_num": 11.2,
+      "sv": 0.5,
+      "desc": "Arabian jump bwd. to double salto fwd piked with ½ turn"
+    },
+    {
+      "box_num": 12,
+      "sv": 0.6,
+      "desc": "Double salto bwd. tucked with 5/2 t."
+    },
+    {
+      "box_num": 13,
+      "sv": 0.1,
+      "desc": "Back handspring."
+    },
+    {
+      "box_num": 16,
+      "sv": 0.4,
+      "desc": " Double salto bwd. piked."
+    },
+    {
+      "box_num": 18,
+      "sv": 0.9,
+      "desc": "Triple salto bwd. tucked.",
+      "name": "Liukin"
+    },
+    {
+      "box_num": 24,
+      "sv": 1.0,
+      "desc": "Triple salto bwd. piked.",
+      "name": "Nagornyy"
+    },
+    {
+      "box_num": 29,
+      "sv": 0.5,
+      "desc": "Double salto bwd. straddled with 1/1 t.",
+      "name": "Lou Yun"
+    },
+    {
+      "box_num": 30,
+      "sv": 0.8,
+      "desc": "Double salto bwd. str w 5/2 t."
+    },
+    {
+      "box_num": 31,
+      "sv": 0.1,
+      "desc": "Jump bwd. with ½ t. to roll fwd."
+    },
+    {
+      "box_num": 35,
+      "sv": 0.5,
+      "desc": "Salto bwd. str. with 1/1 t and salto bwd piked."
+    },
+    {
+      "box_num": 36,
+      "sv": 0.6,
+      "desc": "Salto bwd. str. with 2/1 t and salto bwd piked.",
+      "name": "Kolyvanov"
+    },
+    {
+      "box_num": 41.1,
+      "sv": 0.5,
+      "desc": "Double salto bwd. straight"
+    },
+    {
+      "box_num": 41.2,
+      "sv": 0.5,
+      "desc": "Double salto bwd. straight and with ½ t."
+    },
+    {
+      "box_num": 41.2,
+      "sv": 0.5,
+      "desc": "Arabian Jump bwd. to dbl. salto fwd. str.",
+      "name": "Tamayo"
+    },
+    {
+      "box_num": 42.1,
+      "sv": 0.7,
+      "desc": "Arabian Jump bwd. to dbl. salto fwd. str. with 1/1 t.",
+      "name": "Hypolito"
+    },
+    {
+      "box_num": 42.2,
+      "sv": 0.7,
+      "desc": "Double salto bwd. str. with 3/2 t."
+    },
+    {
+      "box_num": 48.1,
+      "sv": 0.6,
+      "desc": " Double salto bwd. straight with 1/1 t."
+    },
+    {
+      "box_num": 48.2,
+      "sv": 0.6,
+      "desc": "Arabian jump bwd. to dbl. salto fwd. str. with ½ t.",
+      "name": "Penev"
+    },
+    {
+      "box_num": 54,
+      "sv": 0.7,
+      "desc": "Double salto bwd. str. with 2/1 t."
+    },
+    {
+      "box_num": 60,
+      "sv": 0.8,
+      "desc": "Double salto bwd. tucked with 7/2 t.",
+      "name": "Minami"
+    },
+    {
+      "box_num": 66,
+      "sv": 0.9,
+      "desc": "Double salto bwd. str. with 3/1 t.",
+      "name": "Shirai 3"
+    },
+    {
+      "box_num": 72,
+      "sv": 0.6,
+      "desc": "Double salto bwd. str. with 7/2 t.",
+      "name": "Jarman"
+    }
+  ],
+  "4": [
+    {
+      "box_num": 1.1,
+      "sv": 0.2,
+      "desc": "Salto fwd. tucked with 1/1 t."
+    },
+    {
+      "box_num": 1.2,
+      "sv": 0.2,
+      "desc": "Salto fwd. tucked with 3/2 t."
+    },
+    {
+      "box_num": 3.1,
+      "sv": 0.3,
+      "desc": "Salto fwd. str. with 1/1 t."
+    },
+    {
+      "box_num": 3.2,
+      "sv": 0.3,
+      "desc": "Salto fwd. str. with 3/2 t."
+    },
+    {
+      "box_num": 4,
+      "sv": 0.4,
+      "desc": "Salto fwd. str. with 2/1 t."
+    },
+    {
+      "box_num": 5,
+      "sv": 0.5,
+      "desc": "Salto fwd. str. with 5/2 t."
+    },
+    {
+      "box_num": 6,
+      "sv": 0.6,
+      "desc": "Salto fwd. str. with 3/1 t.",
+      "name": "Shirai 2"
+    },
+    {
+      "box_num": 8,
+      "sv": 0.2,
+      "desc": "Salto backwards str. w. 1/1 t."
+    },
+    {
+      "box_num": 9.1,
+      "sv": 0.3,
+      "desc": "Salto bwd. str. with 3/2 t."
+    },
+    {
+      "box_num": 9.2,
+      "sv": 0.3,
+      "desc": "Salto bwd. str. with 2/1 t."
+    },
+    {
+      "box_num": 10,
+      "sv": 0.4,
+      "desc": "Salto bwd. str. with 5/2 t."
+    },
+    {
+      "box_num": 11,
+      "sv": 0.5,
+      "desc": "Salto bwd. str. with 7/2 t.",
+      "name": "González"
+    },
+    {
+      "box_num": 12,
+      "sv": 0.7,
+      "desc": "Salto fwd. str. with 7/2 t.",
+      "name": "Goshima"
+    },
+    {
+      "box_num": 14,
+      "sv": 0.3,
+      "desc": "Salto bwd. tucked with 3/2 t."
+    },
+    {
+      "box_num": 22,
+      "sv": 0.4,
+      "desc": "Salto bwd. str. with 3/1 t."
+    },
+    {
+      "box_num": 24,
+      "sv": 0.6,
+      "desc": "Salto bwd. str. with 4/1 t.",
+      "name": "Shirai / Nguyen"
+    }
+  ]
+}
