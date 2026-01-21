@@ -248,54 +248,72 @@
       "desc": "Dive roll."
     },
     {
-      "box_num": 13.1,
+      "box_num": 13,
       "sv": 0.1,
-      "desc": "Salto fwd. tucked."
+      "desc": "Salto fwd. tucked or piked, also with ½ t.",
+      "split": [
+        {
+          "box_num": 13.1,
+          "desc": "Salto fwd. tucked."
+        },
+        {
+          "box_num": 13.2,
+          "desc": "Salto fwd. piked."
+        },
+        {
+          "box_num": 13.3,
+          "desc": "Salto fwd. piked with ½ t."
+        },
+        {
+          "box_num": 13.4,
+          "desc": "Salto fwd. tucked with ½ t."
+        }
+      ]
     },
     {
-      "box_num": 13.2,
-      "sv": 0.1,
-      "desc": "Salto fwd. piked."
-    },
-    {
-      "box_num": 13.3,
-      "sv": 0.1,
-      "desc": "Salto fwd. piked with ½ t."
-    },
-    {
-      "box_num": 13.4,
-      "sv": 0.1,
-      "desc": "Salto fwd. tucked with ½ t."
-    },
-    {
-      "box_num": 14.1,
+      "box_num": 14,
       "sv": 0.2,
-      "desc": "Salto fwd. straight"
+      "desc": "Salto fwd. straight, also with ½ t.",
+      "split": [
+        {
+          "box_num": 14.1,
+          "desc": "Salto fwd. straight"
+        },
+        {
+          "box_num": 14.1,
+          "desc": "Salto fwd. straight with ½ t."
+        }
+      ]
     },
     {
-      "box_num": 14.1,
-      "sv": 0.2,
-      "desc": "Salto fwd. straight with ½ t."
-    },
-    {
-      "box_num": 16.1,
+      "box_num": 16,
       "sv": 0.4,
-      "desc": " Double salto fwd. tucked."
+      "desc": "Double salto fwd. tucked, also with ½ t.",
+      "split": [
+        {
+          "box_num": 16.1,
+          "desc": " Double salto fwd. tucked."
+        },
+        {
+          "box_num": 16.2,
+          "desc": " Double salto fwd. tucked with ½ t."
+        }
+      ]
     },
     {
-      "box_num": 16.2,
-      "sv": 0.4,
-      "desc": " Double salto fwd. tucked with ½ t."
-    },
-    {
-      "box_num": 17.1,
+      "box_num": 17.0,
       "sv": 0.5,
-      "desc": "Double salto fwd. piked"
-    },
-    {
-      "box_num": 17.2,
-      "sv": 0.5,
-      "desc": "Double salto fwd. piked with ½ t."
+      "desc": "Double salto fwd. piked",
+      "split": [
+        {
+          "box_num": 17.1,
+          "desc": "Double salto fwd. piked"
+        },
+        {
+          "box_num": 17.2,
+          "desc": "Double salto fwd. piked with ½ t."
+        }
+      ]
     },
     {
       "box_num": 36,
@@ -303,14 +321,19 @@
       "desc": "Double salto fwd. tucked with 1/1 turn."
     },
     {
-      "box_num": 38.1,
+      "box_num": 38,
       "sv": 0.2,
-      "desc": "Salto fwd. t. to front support."
-    },
-    {
-      "box_num": 38.2,
-      "sv": 0.2,
-      "desc": "Salto fwd. p. to front support."
+      "desc": "Salto fwd. t. to front support.",
+      "split": [
+        {
+          "box_num": 38.1,
+          "desc": "Salto fwd. t. to front support."
+        },
+        {
+          "box_num": 38.2,
+          "desc": "Salto fwd. p. to front support."
+        }
+      ]
     },
     {
       "box_num": 42,
@@ -329,34 +352,39 @@
       "sv": 0.7,
       "desc": "Double salto fwd. piked or straight with 3/2 turn.",
       "name": "Zapata 2"
-    },
-    {
-      "box_num": 17.2,
-      "sv": 0.5,
-      "desc": "Double salto fwd. piked with ½ t."
     }
   ],
   "3": [
     {
-      "box_num": 1.1,
+      "box_num": 1,
       "sv": 0.1,
-      "desc": "Salto backwards tucked."
+      "desc": "Salto backwards tucked or piked.",
+      "split": [
+        {
+          "box_num": 1.1,
+          "desc": "Salto backwards tucked."
+        },
+        {
+          "box_num": 1.2,
+          "desc": "Salto backwards piked."
+        }
+      ]
     },
     {
-      "box_num": 1.2,
-      "sv": 0.1,
-      "desc": "Salto backwards piked."
-    },
-    {
-      "box_num": 2.1,
+      "box_num": 2,
       "sv": 0.2,
-      "desc": "Salto backwards str."
-    },
-    {
-      "box_num": 2.2,
-      "sv": 0.2,
-      "desc": "Tempo salto bwd.",
-      "name": "Whip"
+      "desc": "Salto backwards str. or Tempo salto bwd.",
+      "split": [
+        {
+          "box_num": 2.1,
+          "desc": "Salto backwards str."
+        },
+        {
+          "box_num": 2.2,
+          "desc": "Tempo salto bwd.",
+          "name": "Whip"
+        }
+      ]
     },
     {
       "box_num": 3,
@@ -364,39 +392,48 @@
       "desc": "Double salto bwd. tucked."
     },
     {
-      "box_num": 4.1,
+      "box_num": 4,
       "sv": 0.4,
       "desc": "Salto bwd. with 1/1 t. and salto bwd.",
-      "name": "Tsukahara"
+      "split": [
+        {
+          "box_num": 4.1,
+          "desc": "Salto bwd. with 1/1 t. and salto bwd.",
+          "name": "Tsukahara"
+        },
+        {
+          "box_num": 4.2,
+          "desc": "Arabian jump bwd. to double salto fwd tucked",
+          "name": "Arabian double"
+        },
+        {
+          "box_num": 4.2,
+          "desc": "Arabian jump bwd. to double salto fwd tucked with ½ t.",
+          "name": "½ in, ½ out"
+        }
+      ]
     },
     {
-      "box_num": 4.2,
-      "sv": 0.4,
-      "desc": "Arabian jump bwd. to double salto fwd tucked",
-      "name": "Arabian double"
-    },
-    {
-      "box_num": 4.2,
-      "sv": 0.4,
-      "desc": "Arabian jump bwd. to double salto fwd tucked with ½ t.",
-      "name": "½ in, ½ out"
-    },
-    {
-      "box_num": 5.1,
+      "box_num": 5,
       "sv": 0.5,
-      "desc": "Double salto bwd. tucked with 2/1 t."
+      "desc": "Salto backwards tucked or piked w. ½ t. or Arabian tucked or piked.",
+      "split": [
+        {
+          "box_num": 5.1,
+          "desc": "Double salto bwd. tucked with 2/1 t."
+        },
+        {
+          "box_num": 5.2,
+          "desc": "double salto bwd t. with 3/2 t."
+        },
+        {
+          "box_num": 5.3,
+          "desc": "salto bwd. str. 3/2 to fwd. salto tucked.",
+          "name": "Korosteljev"
+        }
+      ]
     },
-    {
-      "box_num": 5.2,
-      "sv": 0.5,
-      "desc": "double salto bwd t. with 3/2 t."
-    },
-    {
-      "box_num": 5.3,
-      "sv": 0.5,
-      "desc": "salto bwd. str. 3/2 to fwd. salto tucked.",
-      "name": "Korosteljev"
-    },
+
     {
       "box_num": 6,
       "sv": 0.6,
@@ -404,24 +441,27 @@
       "name": "Triple Double"
     },
     {
-      "box_num": 7.1,
+      "box_num": 7,
       "sv": 0.1,
-      "desc": "Salto backwards tucked w ½ t."
-    },
-    {
-      "box_num": 7.2,
-      "sv": 0.1,
-      "desc": "Salto backwards piked w. ½ t."
-    },
-    {
-      "box_num": 7.3,
-      "sv": 0.1,
-      "desc": "Arabian tucked"
-    },
-    {
-      "box_num": 7.4,
-      "sv": 0.1,
-      "desc": "arabian piked."
+      "desc": "Salto backwards tucked or piked w. ½ t. or Arabian tucked or piked.",
+      "split": [
+        {
+          "box_num": 7.1,
+          "desc": "Salto backwards tucked w ½ t."
+        },
+        {
+          "box_num": 7.2,
+          "desc": "Salto backwards piked w. ½ t."
+        },
+        {
+          "box_num": 7.3,
+          "desc": "Arabian tucked"
+        },
+        {
+          "box_num": 7.4,
+          "desc": "arabian piked."
+        }
+      ]
     },
     {
       "box_num": 8,
@@ -429,14 +469,19 @@
       "desc": "Salto backwards str. w. ½ t."
     },
     {
-      "box_num": 11.1,
+      "box_num": 11,
       "sv": 0.5,
-      "desc": "Arabian jump bwd. to double salto fwd piked"
-    },
-    {
-      "box_num": 11.2,
-      "sv": 0.5,
-      "desc": "Arabian jump bwd. to double salto fwd piked with ½ turn"
+      "desc": "Arabian jump bwd. todouble salto fwd piked, also with ½ turn.",
+      "split": [
+        {
+          "box_num": 11.1,
+          "desc": "Arabian jump bwd. to double salto fwd piked"
+        },
+        {
+          "box_num": 11.2,
+          "desc": "Arabian jump bwd. to double salto fwd piked with ½ turn"
+        }
+      ]
     },
     {
       "box_num": 12,
@@ -493,42 +538,56 @@
       "name": "Kolyvanov"
     },
     {
-      "box_num": 41.1,
+      "box_num": 41,
       "sv": 0.5,
-      "desc": "Double salto bwd. straight"
+      "desc": "Double salto bwd. straight or Double salto bwd. straight and with ½ t., or Arabian Jump bwd. to dbl. salto fwd. str.",
+      "split": [
+        {
+          "box_num": 41.1,
+          "desc": "Double salto bwd. straight"
+        },
+        {
+          "box_num": 41.2,
+          "desc": "Double salto bwd. straight and with ½ t."
+        },
+        {
+          "box_num": 41.3,
+          "desc": "Arabian Jump bwd. to dbl. salto fwd. str.",
+          "name": "Tamayo"
+        }
+      ]
     },
     {
-      "box_num": 41.2,
-      "sv": 0.5,
-      "desc": "Double salto bwd. straight and with ½ t."
-    },
-    {
-      "box_num": 41.2,
-      "sv": 0.5,
-      "desc": "Arabian Jump bwd. to dbl. salto fwd. str.",
-      "name": "Tamayo"
-    },
-    {
-      "box_num": 42.1,
+      "box_num": 42,
       "sv": 0.7,
-      "desc": "Arabian Jump bwd. to dbl. salto fwd. str. with 1/1 t.",
-      "name": "Hypolito"
+      "desc": "Double salto bwd. str. with 3/2 t. or Arabian Jump bwd. to dbl. salto fwd. str. with 1/1 t.",
+      "split": [
+        {
+          "box_num": 42.1,
+          "desc": "Arabian Jump bwd. to dbl. salto fwd. str. with 1/1 t.",
+          "name": "Hypolito"
+        },
+        {
+          "box_num": 42.2,
+          "desc": "Double salto bwd. str. with 3/2 t."
+        }
+      ]
     },
     {
-      "box_num": 42.2,
-      "sv": 0.7,
-      "desc": "Double salto bwd. str. with 3/2 t."
-    },
-    {
-      "box_num": 48.1,
+      "box_num": 48,
       "sv": 0.6,
-      "desc": " Double salto bwd. straight with 1/1 t."
-    },
-    {
-      "box_num": 48.2,
-      "sv": 0.6,
-      "desc": "Arabian jump bwd. to dbl. salto fwd. str. with ½ t.",
-      "name": "Penev"
+      "desc": "Double salto bwd. straight with 1/1 t. or Arabian jump bwd. to dbl. salto fwd. str. with ½ t.",
+      "split": [
+        {
+          "box_num": 48.1,
+          "desc": " Double salto bwd. straight with 1/1 t."
+        },
+        {
+          "box_num": 48.2,
+          "desc": "Arabian jump bwd. to dbl. salto fwd. str. with ½ t.",
+          "name": "Penev"
+        }
+      ]
     },
     {
       "box_num": 54,
@@ -556,25 +615,36 @@
   ],
   "4": [
     {
-      "box_num": 1.1,
+      "box_num": 2,
       "sv": 0.2,
-      "desc": "Salto fwd. tucked with 1/1 t."
+      "desc": "Salto fwd. tucked with 1/1 t., also with 3/2 t.",
+      "split": [
+        {
+          "box_num": 1.1,
+          "desc": "Salto fwd. tucked with 1/1 t."
+        },
+        {
+          "box_num": 1.2,
+          "desc": "Salto fwd. tucked with 3/2 t."
+        }
+      ]
     },
     {
-      "box_num": 1.2,
-      "sv": 0.2,
-      "desc": "Salto fwd. tucked with 3/2 t."
-    },
-    {
-      "box_num": 3.1,
+      "box_num": 3,
       "sv": 0.3,
-      "desc": "Salto fwd. str. with 1/1 t."
+      "desc": "Salto fwd. str. with 1/1 t., also with 3/2 t. ",
+      "split": [
+        {
+          "box_num": 3.1,
+          "desc": "Salto fwd. str. with 1/1 t."
+        },
+        {
+          "box_num": 3.2,
+          "desc": "Salto fwd. str. with 3/2 t."
+        }
+      ]
     },
-    {
-      "box_num": 3.2,
-      "sv": 0.3,
-      "desc": "Salto fwd. str. with 3/2 t."
-    },
+
     {
       "box_num": 4,
       "sv": 0.4,
@@ -597,14 +667,19 @@
       "desc": "Salto backwards str. w. 1/1 t."
     },
     {
-      "box_num": 9.1,
+      "box_num": 9,
       "sv": 0.3,
-      "desc": "Salto bwd. str. with 3/2 t."
-    },
-    {
-      "box_num": 9.2,
-      "sv": 0.3,
-      "desc": "Salto bwd. str. with 2/1 t."
+      "desc": "Salto bwd. str. with 3/2 t. or 2/1 t.",
+      "split": [
+        {
+          "box_num": 9.1,
+          "desc": "Salto bwd. str. with 3/2 t."
+        },
+        {
+          "box_num": 9.2,
+          "desc": "Salto bwd. str. with 2/1 t."
+        }
+      ]
     },
     {
       "box_num": 10,
