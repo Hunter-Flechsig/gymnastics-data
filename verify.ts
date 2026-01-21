@@ -2,6 +2,12 @@ import { z } from "zod";
 import fs from "fs";
 import path from "path";
 
+const Split = z.object({
+  name: z.string().optional(),
+  box_num: z.number(),
+  desc: z.string(),
+});
+
 const Skill = z.object({
   box_num: z.number(),
   sv: z.number().min(0).max(1),
@@ -9,6 +15,7 @@ const Skill = z.object({
   name: z.string().optional(),
   altNames: z.array(z.string()).optional(),
   image: z.string().url().optional(),
+  split: z.array(Split).optional(),
 });
 
 const FileSchema = z.object({
