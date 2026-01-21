@@ -11,8 +11,6 @@ gymnastics-data/
 
 ├── images/ # Optional skill diagrams or icons
 
-├── schema.json # JSON schema for validation
-
 ├── verify.ts # Local + CI validation script
 
 └── .github/workflows/deploy.yml # GitHub Actions: validate + deploy to Pages
